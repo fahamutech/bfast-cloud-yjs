@@ -1,6 +1,6 @@
 {
   "name": "bfast-cloud-yjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "echo \"no test\"",
     "start": "YPERSISTENCE=./cache npx y-websocket"
