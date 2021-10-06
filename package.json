@@ -1,12 +1,13 @@
 {
   "name": "bfast-cloud-yjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "test": "echo \"no test\"",
     "start": "YPERSISTENCE=./cache npx y-websocket"
   },
   "dependencies": {
-    "y-websocket": "^1.3.16"
+    "y-websocket": "~1.3.16",
+    "yjs": "~13.5.12"
   },
   "private": true
 }
