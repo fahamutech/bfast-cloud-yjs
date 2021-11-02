@@ -6,6 +6,7 @@
     "start": "YPERSISTENCE=./cache npx y-websocket"
   },
   "dependencies": {
+    "y-leveldb": "^0.1.0",
     "y-websocket": "~1.3.17",
     "yjs": "~13.5.17"
   },
